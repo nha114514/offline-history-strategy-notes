@@ -7,3 +7,15 @@
 Windows 端的本地存档可正常备份和恢复。
 
 本页仅介绍项目。项目供个人体验与交流，请勿用于商业推广、收费分发或代售。《无悔华夏》的原作程序与素材归相应权利人所有。
+
+## English
+
+**Wuhui Huaxia · Offline Play Project**
+
+This personal, non-commercial project explores offline single-player play in Wuhui Huaxia (无悔华夏). It is still in testing. It adds local save management and scenario tools for single-player campaigns and historical scenarios.
+
+Choose your preferred ministers and pair them with costumes, military equipment, and rulers. In historical scenarios, you can adjust resources and policy execution times to suit the way you play.
+
+The Windows tools can back up and restore local saves.
+
+This project is for personal use and discussion. Please do not use it for commercial promotion, paid distribution, or resale. The original game code and assets belong to their respective rights holders.
